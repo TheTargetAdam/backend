@@ -15,7 +15,7 @@
 - [Видео с презентацией(защитой проекта)](https://github.com/TheTargetAdam/AVDoc/blob/main/BandicamPrez.mp4)
 
 ## В данной репозитории представлен backend приложения, но вы всегда можете перейти в другие репозитории по этим ссылкам:
-- [Frontend](https://github.com/TheTargetAdam/front):point_left:
+- [Frontend](https://github.com/TheTargetAdam/frontend):point_left:
 - [Документация](https://github.com/TheTargetAdam/AVDoc):point_left:
 
 ## Большое Спасибо всем, кого заинтерисовал мой проект!
